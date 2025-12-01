@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet } from "react-native";
-import MovList from "../../components/MovList/MovList";
+import MovList from "../../components/MovList/index";
 
 
 export default function Saidas() {
